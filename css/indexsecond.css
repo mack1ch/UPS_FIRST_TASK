@@ -1,0 +1,157 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+/*Включение CSS репроцессора Saas*/
+body{
+    background-image: url("../assets/ground.svg ");
+    color: #FFFFFF;
+    font-family: 'Open Sans', sans-serif;
+}
+.star{
+    margin-top: 30px;
+    margin-left: -20px;
+}
+.entrance{
+    margin-top: 0;
+    width: 300px;
+}
+.register{
+    margin-left:5px;
+    margin-top: 0;
+    width: 300px;
+}
+.advertisement{
+    margin-top: 10px;
+}
+.stan_dart{
+    margin-top: 50px;
+    position: absolute;
+}
+.language{
+    margin-top: 5px;
+    width: 300px;
+}
+.text_2{
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    margin-top: 5px;
+    color: #CA7B34;
+}
+.eighty_eight{
+    width: 100%;
+    margin-top: 100px;
+}
+.form-check{
+    font-size:12px;
+    margin-top: 10px;
+}
+.cyber_red{
+    margin-top: 40px;
+    width:300px;
+    height: auto;
+}
+.text_1{
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    color: #BEBEBE;
+    margin-top: 18px;
+}
+.login input:focus{
+    outline: none;
+}
+.login{
+    box-sizing: border-box;
+    margin-top: 20px;
+    background: #1E1E1E;
+    border: 1.67755px solid #FFFFFF;
+    width: 200px;
+}
+.login input {
+    background: transparent;
+    border: none;
+    font-size: 1em;
+    color: #FFFFFF;
+
+}
+.FIO{
+    box-sizing: border-box;
+    margin-top:20px;
+    background: #1E1E1E;
+    border: 1.67755px solid #FFFFFF;
+    width: 200px;
+}
+.FIO input:focus{
+    outline: none;
+}
+.FIO input{
+    background: transparent;
+    border: none;
+    font-size: 1em;
+    color: #FFFFFF;
+}
+.password{
+    box-sizing: border-box;
+    margin-top:20px;
+    background: #1E1E1E;
+    border: 1.67755px solid #FFFFFF;
+    width: 200px;
+}
+.password input:focus{
+    outline: none;
+}
+.password input{
+    background: transparent;
+    border: none;
+    font-size: 1em;
+    color: #FFFFFF;
+}
+.accept_password{
+    box-sizing: border-box;
+    margin-top:20px;
+    background: #1E1E1E;
+    border: 1.67755px solid #FFFFFF;
+    width: 200px;
+}
+.accept_password input:focus{
+    outline: none;
+}
+.accept_password input{
+    background: transparent;
+    border: none;
+    font-size: 0.8em;
+    color: #FFFFFF;
+}
+.phone{
+    box-sizing: border-box;
+    margin-top:20px;
+    background: #1E1E1E;
+    border: 1.67755px solid #FFFFFF;
+    width: 200px;
+}
+.phone input:focus{
+    outline: none;
+}
+.phone input{
+    background: transparent;
+    border: none;
+    font-size: 1em;
+    color: #FFFFFF;
+}
+.email{
+    box-sizing: border-box;
+    margin-top:20px;
+    background: #1E1E1E;
+    border: 1.67755px solid #FFFFFF;
+    width: 200px;
+}
+.email input:focus{
+    outline: none;
+}
+.email input{
+    background: transparent;
+    border: none;
+    font-size: 1em;
+    color: #FFFFFF;
+}

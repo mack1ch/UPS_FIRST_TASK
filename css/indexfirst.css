@@ -1,0 +1,84 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+/*Включение CSS репроцессора Saas*/
+body{
+    background-image: url("../assets/ground.svg ");
+    color: #FFFFFF;
+    font-family: 'Open Sans', sans-serif;
+}
+.cyber_red{
+    margin-top:50px;
+}
+.eighty_eight{
+margin-top: 100px;
+}
+.entrance{
+    margin-top: 20px;
+}
+.register{
+    margin-left:5px;
+    margin-top: 20px;
+}
+.advertisement{
+margin-top: 20px;
+}
+.language{
+    margin-top: 18px;
+}
+.form-check{
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 25px;
+    color: #FFFFFF;
+    margin-top: 10px;
+}
+/*.text_2{
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 25px;
+    color: #FFFFFF;
+
+}*/
+.text_3{
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 25px;
+    color: #FFFFFF;
+
+}
+
+.login input:focus{
+    outline: none;
+}
+.login{
+    box-sizing: border-box;
+    margin-top: 20px;
+    background: #1E1E1E;
+    border: 1.67755px solid #FFFFFF;
+}
+.login input {
+    background: transparent;
+    border: none;
+    font-size: 1.2em;
+    color: #FFFFFF;
+}
+.password{
+    box-sizing: border-box;
+    margin-top:20px;
+    background: #1E1E1E;
+    border: 1.67755px solid #FFFFFF;
+}
+.password input:focus{
+    outline: none;
+}
+.password input{
+    background: transparent;
+    border: none;
+    font-size: 1.2em;
+    color: #FFFFFF;
+}
